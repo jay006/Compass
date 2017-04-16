@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\Compass\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\GitHub\Compass\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_023c06c0be21ccd67d65eaa94ae63b92f2546d28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\Compass\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f58ea2ce271c51799d596b7656b0aa14d7ed2b5">
+        <dex dex="D:\GitHub\Compass\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5882a545cc99946be186b7af4b9e955fddb995db\classes.dex" />
+    </item>
+
+</items>

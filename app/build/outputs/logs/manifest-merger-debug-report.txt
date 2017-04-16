@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Shriom\.android\build-cache\37fd960a7e0de6cea0e6dac1ee16de24f592380a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Shriom\.android\build-cache\917935255c38d9a4b2f24f9e3fac0507145ccb39\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Shriom\.android\build-cache\b05df8ac0e556188706f90c495aaac4bd3a3bd82\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Shriom\.android\build-cache\cca32adbbdd10e9db5eb91826b143abbfaad00e3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Shriom\.android\build-cache\a3ddc20ec9bcb81cd5bed558d1dd173e34a84dd4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Shriom\.android\build-cache\099e119cc9c0ecc46f3d4f64bdef0f9dbf8bd0b2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Shriom\.android\build-cache\d8dd07af3520310aca5fc8007983e12bda70e4c8\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Shriom\.android\build-cache\e0323b8721476b1a2920b3945aaeeeb0abf6c673\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Shriom\.android\build-cache\46867bea8838c00e134eb62ec579bfa4c4eb0206\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shriom\.android\build-cache\f9bc9855d380ba32708dfe6400c8d493b080a668\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.shriom.compass.MainActivity
+ADDED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Shriom\.android\build-cache\37fd960a7e0de6cea0e6dac1ee16de24f592380a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Shriom\.android\build-cache\917935255c38d9a4b2f24f9e3fac0507145ccb39\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Shriom\.android\build-cache\b05df8ac0e556188706f90c495aaac4bd3a3bd82\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Shriom\.android\build-cache\cca32adbbdd10e9db5eb91826b143abbfaad00e3\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Shriom\.android\build-cache\a3ddc20ec9bcb81cd5bed558d1dd173e34a84dd4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Shriom\.android\build-cache\099e119cc9c0ecc46f3d4f64bdef0f9dbf8bd0b2\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Shriom\.android\build-cache\d8dd07af3520310aca5fc8007983e12bda70e4c8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Shriom\.android\build-cache\e0323b8721476b1a2920b3945aaeeeb0abf6c673\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Shriom\.android\build-cache\46867bea8838c00e134eb62ec579bfa4c4eb0206\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shriom\.android\build-cache\f9bc9855d380ba32708dfe6400c8d493b080a668\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Shriom\.android\build-cache\37fd960a7e0de6cea0e6dac1ee16de24f592380a\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\Compass\app\src\main\AndroidManifest.xml
